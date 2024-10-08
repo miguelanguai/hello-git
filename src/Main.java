@@ -1,5 +1,7 @@
 import formacion.ejercicio1.Gato;
 import formacion.ejercicio2.Vehiculo;
+import formacion.ejercicio3.Circulo;
+import formacion.ejercicio3.Rectangulo;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -10,5 +12,13 @@ public class Main {
 
         Vehiculo vehiculo = new Vehiculo();
         vehiculo.arrancar();
+
+        Rectangulo rectangulo = new Rectangulo();
+        rectangulo.setBase(2);
+        rectangulo.setHeight(3);
+        System.out.println(rectangulo.calcularArea());
+        Circulo circulo = new Circulo();
+        circulo.setRadio(1);
+        System.out.println(circulo.calcularArea());
     }
 }
