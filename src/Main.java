@@ -5,6 +5,8 @@ import formacion.ejercicio3.Rectangulo;
 import formacion.ejercicio4.Coche;
 import formacion.ejercicio5.Dia;
 import formacion.ejercicio5.Elegir;
+import formacion.ejercicio6.EmpleadoTiempoCompleto;
+import formacion.ejercicio6.EmpleadoTiempoParcial;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -32,6 +34,11 @@ public class Main {
         Elegir.elegirDia(dia);
         dia=Dia.DOMINGO;
         Elegir.elegirDia(dia);
+
+        EmpleadoTiempoCompleto emp1 = new EmpleadoTiempoCompleto();
+        emp1.calcularSalario(); //Este empleado tiene un bonus de un 25% sobre el total
+        EmpleadoTiempoParcial emp2 = new EmpleadoTiempoParcial();
+        emp2.calcularSalario();
 
     }
 }
