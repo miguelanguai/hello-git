@@ -11,6 +11,7 @@ import formacion.ejerciciosHerencia.ejercicio7.Persona;
 import formacion.ejerciciosHerencia.ejercicio7.RepositorioDePersonas;
 import formacion.ejerciciosStreams.Stream1;
 import formacion.ejerciciosStreams.Stream2;
+import formacion.ejerciciosStreams.Stream3;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -76,6 +77,7 @@ public class Main {
         Stream1.execute();
         System.out.println("");
         Stream2.execute();
-
+        System.out.println("");
+        Stream3.execute();
     }
 }
