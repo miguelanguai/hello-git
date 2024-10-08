@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a320777-d5c7-4fec-ae67-acb6cc11590e" name="Changes" comment="add exercise 7">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0a320777-d5c7-4fec-ae67-acb6cc11590e" name="Changes" comment="ejercicio 1: streams">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio1/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio1/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio1/Gato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio1/Perro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio1/Perro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio2/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio2/Coche.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio2/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio2/Vehiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio3/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio3/Circulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio3/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio3/Figura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio3/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio3/Rectangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio4/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio4/Coche.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio4/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio4/Vehiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio5/Dia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio5/Dia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio5/Elegir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio5/Elegir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio6/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio6/Empleado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio6/EmpleadoTiempoCompleto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio6/EmpleadoTiempoCompleto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio6/EmpleadoTiempoParcial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio6/EmpleadoTiempoParcial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio7/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio7/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formacion/ejercicio7/RepositorioDePersonas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formacion/ejerciciosHerencia/ejercicio7/RepositorioDePersonas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728378079403</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="refactorizar: crear carpetas para mejorar la distribucion de los ejercicios">
+      <option name="closed" value="true" />
+      <created>1728385552694</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728385552694</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ejercicio 1: streams">
+      <option name="closed" value="true" />
+      <created>1728385638724</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728385638724</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,14 +156,16 @@
     <MESSAGE value="add exercise 5" />
     <MESSAGE value="add exercise 6" />
     <MESSAGE value="add exercise 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exercise 7" />
+    <MESSAGE value="refactorizar: crear carpetas para mejorar la distribucion de los ejercicios" />
+    <MESSAGE value="ejercicio 1: streams" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 1: streams" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>76</line>
+          <line>79</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

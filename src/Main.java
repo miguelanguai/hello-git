@@ -10,6 +10,7 @@ import formacion.ejerciciosHerencia.ejercicio6.EmpleadoTiempoParcial;
 import formacion.ejerciciosHerencia.ejercicio7.Persona;
 import formacion.ejerciciosHerencia.ejercicio7.RepositorioDePersonas;
 import formacion.ejerciciosStreams.Stream1;
+import formacion.ejerciciosStreams.Stream2;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -73,6 +74,8 @@ public class Main {
         System.out.println("Ejercicio Streams");
         System.out.println("");
         Stream1.execute();
+        System.out.println("");
+        Stream2.execute();
 
     }
 }
