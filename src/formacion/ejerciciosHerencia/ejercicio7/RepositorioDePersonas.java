@@ -1,4 +1,4 @@
-package formacion.ejercicio7;
+package formacion.ejerciciosHerencia.ejercicio7;
 
 import java.util.ArrayList;
 import java.util.List;

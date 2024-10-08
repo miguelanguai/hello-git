@@ -1,4 +1,4 @@
-package formacion.ejercicio1;
+package formacion.ejerciciosHerencia.ejercicio1;
 
 public class Perro extends Animal{
 

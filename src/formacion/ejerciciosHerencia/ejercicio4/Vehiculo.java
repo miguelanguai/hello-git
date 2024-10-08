@@ -1,4 +1,4 @@
-package formacion.ejercicio4;
+package formacion.ejerciciosHerencia.ejercicio4;
 
 public interface Vehiculo {
 

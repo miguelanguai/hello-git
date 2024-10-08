@@ -1,4 +1,4 @@
-package formacion.ejercicio5;
+package formacion.ejerciciosHerencia.ejercicio5;
 
 public class Elegir {
     public static void elegirDia(Dia dia){

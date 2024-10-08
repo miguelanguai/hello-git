@@ -1,4 +1,4 @@
-package formacion.ejercicio7;
+package formacion.ejerciciosHerencia.ejercicio7;
 
 public class Persona {
     private Long id;

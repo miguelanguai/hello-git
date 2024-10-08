@@ -1,6 +1,4 @@
-package formacion.ejercicio4;
-
-import formacion.ejercicio4.Vehiculo;
+package formacion.ejerciciosHerencia.ejercicio4;
 
 public class Coche implements Vehiculo {
     @Override

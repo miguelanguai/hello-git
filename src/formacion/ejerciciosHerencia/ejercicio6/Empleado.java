@@ -1,4 +1,4 @@
-package formacion.ejercicio6;
+package formacion.ejerciciosHerencia.ejercicio6;
 
 abstract class Empleado {
     private int horasTrabajadas;

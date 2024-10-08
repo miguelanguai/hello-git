@@ -1,4 +1,4 @@
-package formacion.ejercicio3;
+package formacion.ejerciciosHerencia.ejercicio3;
 
 public class Circulo extends Figura{
     private double radio;

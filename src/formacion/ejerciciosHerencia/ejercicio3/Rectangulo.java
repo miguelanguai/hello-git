@@ -1,4 +1,4 @@
-package formacion.ejercicio3;
+package formacion.ejerciciosHerencia.ejercicio3;
 
 public class Rectangulo extends Figura{
     private double base;

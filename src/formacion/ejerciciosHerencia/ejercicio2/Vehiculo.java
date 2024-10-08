@@ -1,4 +1,4 @@
-package formacion.ejercicio2;
+package formacion.ejerciciosHerencia.ejercicio2;
 
 public final class Vehiculo {
     public void arrancar(){
