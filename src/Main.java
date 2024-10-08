@@ -2,6 +2,7 @@ import formacion.ejercicio1.Gato;
 import formacion.ejercicio2.Vehiculo;
 import formacion.ejercicio3.Circulo;
 import formacion.ejercicio3.Rectangulo;
+import formacion.ejercicio4.Coche;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -20,5 +21,9 @@ public class Main {
         Circulo circulo = new Circulo();
         circulo.setRadio(1);
         System.out.println(circulo.calcularArea());
+
+        Coche coche = new Coche();
+        coche.acelerar();
+        coche.frenar();
     }
 }
